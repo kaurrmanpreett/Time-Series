@@ -20,8 +20,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/time-series-analysis.git
-   cd time-series-analysis
+   git clone https://github.com/kaurrmanpreett/Time-Series.git
 
 2. Create and activate a virtual environment (optional but recommended):
    python -m venv venv
